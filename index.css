@@ -17,12 +17,12 @@
 }
 
 .u-section-1 .u-text-1 {
-  margin: 28px auto 0 103px;
+  margin: auto  auto auto auto ;
 }
 
 .u-section-1 .u-text-2 {
   font-weight: 700;
-  margin: 0 auto 0 108px;
+  margin: auto  auto auto  auto ;
 }
 
 .u-section-1 .u-text-3 {
@@ -88,11 +88,11 @@
   }
 
   .u-section-1 .u-text-1 {
-    margin-left: 79px;
+    margin-left: 0;
   }
 
   .u-section-1 .u-text-2 {
-    margin-left: 83px;
+    margin-left: 0;
   }
 
   .u-section-1 .u-btn-1 {
