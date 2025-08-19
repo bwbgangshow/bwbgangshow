@@ -41,6 +41,14 @@
   background-position: 50% 50%;
 }
 
+.u-section-1 .u-image-2 {
+  min-height: 538px;
+  background-image: url("images/ignite_nov_25.png");
+  --radius: 50px;
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
 .u-section-1 .u-container-layout-2 {
   padding: 50px;
 }
